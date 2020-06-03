@@ -1,0 +1,21 @@
+body{
+	background: url("../img/black.jpg");
+	background-attachment: fixed;
+}
+
+#logo{
+	background: #EEE8AA;
+	
+}
+
+#menu ul li:hover{
+	background: #EEE8AA;
+}
+
+.button-more{
+	background: #EEE8AA;
+}
+
+#sidebar h4{
+	background: url("../img/oro.jpg");
+}

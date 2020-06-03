@@ -1,0 +1,22 @@
+body{
+	background: url("../img/snow.gif");
+	background-attachment: fixed;
+}
+
+#logo{
+	background: #ADD8E6;
+	
+}
+
+#menu ul li:hover{
+	background: #ADD8E6;
+}
+
+.button-more{
+	background: #ADD8E6;
+}
+
+#sidebar h4{
+	background: url("../img/light.png");
+}
+
